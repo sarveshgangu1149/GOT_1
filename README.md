@@ -1,2 +1,2 @@
 # GOT_1
-Demo
+Demo project
